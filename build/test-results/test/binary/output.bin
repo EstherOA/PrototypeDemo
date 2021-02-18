@@ -1,0 +1,2 @@
+žInspecting existing object:	ExerciseBookPrototype{uniqueID='UniqueExerciseID', color='Green', binding=SoftcoverOwner{firstName='Anna', lastName='Karenina'}}
+›Inspecting clone object:	ExerciseBookPrototype{uniqueID='UniqueExerciseID', color='Green', binding=SoftcoverOwner{firstName='Anna', lastName='Karenina'}}

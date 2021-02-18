@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.prototype.ExerciseBookPrototypeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-02-18T10:34:27" hostname="DESKTOP-6DJ5P7N" time="0.006">
+  <properties/>
+  <testcase name="createClone" classname="com.prototype.ExerciseBookPrototypeTest" time="0.006"/>
+  <system-out><![CDATA[Inspecting existing object:	ExerciseBookPrototype{uniqueID='UniqueExerciseID', color='Green', binding=SoftcoverOwner{firstName='Anna', lastName='Karenina'}}
+Inspecting clone object:	ExerciseBookPrototype{uniqueID='UniqueExerciseID', color='Green', binding=SoftcoverOwner{firstName='Anna', lastName='Karenina'}}
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

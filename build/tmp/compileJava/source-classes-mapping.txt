@@ -1,0 +1,9 @@
+com/prototype/CustomPrototype.java
+ com.prototype.CustomPrototype
+com/prototype/ExerciseBookPrototype.java
+ com.prototype.Binding
+ com.prototype.ExerciseBookPrototype
+ com.prototype.ExerciseBookPrototype$1
+ com.prototype.ExerciseBookPrototype$Owner
+com/prototype/NotebookPrototype.java
+ com.prototype.NotebookPrototype
